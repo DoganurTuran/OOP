@@ -1,4 +1,4 @@
-name: npm nodejs-2
+name: npm nodejs-3
 
 on:
   push:
